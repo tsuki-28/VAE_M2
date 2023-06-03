@@ -7,7 +7,7 @@ VAE网络与生成式半监督相结合的小样本学习网络
 
 ## 概述
 
-![image-20230603152528802](C:\Users\98059\AppData\Roaming\Typora\typora-user-images\image-20230603152528802.png)
+![绘图2](E:\毕设\代码交接\VAE_M2\绘图2.png)
 
 ## 环境配置
 
