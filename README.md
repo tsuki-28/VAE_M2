@@ -7,7 +7,7 @@ VAE网络与生成式半监督相结合的小样本学习网络
 
 ## 概述
 
-![绘图2](E:\毕设\代码交接\VAE_M2\绘图2.png)
+![绘图2](https://github.com/tsuki-28/VAE_M2/blob/main/img/%E7%BB%98%E5%9B%BE2.png)
 
 ## 环境配置
 
